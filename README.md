@@ -1,3 +1,5 @@
-This repository contains files related to projects I have completed in the past. PredictingMuscleInjuries is a regression problem in which I attempt to predict the number of muscle injuries 
-a European professional football (soccer) team will experience over the course of a full season. ImageClassificationOfHands is an image classification problem in which me and 3 others attempt to train
-train a Convolutional Neural Network (CNN) to classify the number of fingers being held up in pictures of hands.
+# Hand Sign Classification  
+### Max Clark, Lukas Schneider, Rowan King, Brendan McGuinness  
+
+## Introduction  
+This project intends to train a Convolutional Neural Network (CNN) to classify images of hands based on how many fingers the hand is holding up. We initially use a dataset from Kaggle for training and testing, and then attempt to apply the model to new, less uniform data that may encountered in the real world.
